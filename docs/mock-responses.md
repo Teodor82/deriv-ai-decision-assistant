@@ -2,7 +2,12 @@
 
 ## EURUSD
 (Decision-support example response for demo purposes)
+# Mock AI Responses
 
+## EURUSD
+(Decision-support example response for demo purposes)
+
+```json
 {
   "summary": "EURUSD is consolidating after a recent push; momentum is mixed and short-term volatility is moderate.",
   "risks": [
@@ -69,5 +74,7 @@
     "Are you using Gold as a hedge or a directional trade?",
     "What risk limit (max loss) are you comfortable with per trade?"
   ]
+}
+
 }
 
