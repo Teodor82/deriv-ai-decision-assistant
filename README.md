@@ -25,4 +25,5 @@ Built for the Deriv Hackathon.
 - Explainability and safety by design
 
 ## Documentation
-See `/docs` for user stories and mock responses.
+See the [docs folder](./docs) for user stories and mock responses.
+
