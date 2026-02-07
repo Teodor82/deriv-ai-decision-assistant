@@ -19,7 +19,7 @@
     {
       "name": "Base case",
       "conditions": "Stays inside the range with no clear momentum confirmation.",
-      "implications": "Chop risk; reduce size or wait for a clear breakout + retest."
+      "implications": "Chop risk; reduce size or wait for a clean breakout and retest."
     },
     {
       "name": "Bear case",
