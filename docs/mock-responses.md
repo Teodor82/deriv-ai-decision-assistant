@@ -44,6 +44,7 @@
 ## Gold (XAUUSD)
 (Decision-support example response for demo purposes)
 
+```json
 {
   "summary": "Gold is showing sensitivity to risk sentiment; price action suggests cautious positioning and potential volatility around macro events.",
   "risks": [
