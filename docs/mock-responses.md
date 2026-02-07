@@ -35,10 +35,11 @@
     "Do you have a key level (support/resistance) you’re watching?"
   ]
 }
-
+```
 
 ## Gold (XAUUSD)
 (Decision-support example response for demo purposes)
+
 
 ```json
 {
