@@ -3,6 +3,8 @@
 ## EURUSD
 (Decision-support example response for demo purposes)
 
+
+
 ```json
 {
   "summary": "EURUSD is consolidating after a recent push; momentum is mixed and short-term volatility is moderate.",
@@ -39,7 +41,9 @@
 
 ## Gold (XAUUSD)
 (Decision-support example response for demo purposes)
-json
+
+## 🧩 ЕТО МИНИМАЛНИЯ PATCH (копирай само това)
+
 {
   "summary": "Gold is showing sensitivity to risk sentiment; price action suggests cautious positioning and potential volatility around macro events.",
   "risks": [
